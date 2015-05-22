@@ -10,5 +10,5 @@ print x*2
 if x < 65:
     print ("damn")
 else:
-    print(" always never give up")
+    print("always never give up")
     print("never!")
